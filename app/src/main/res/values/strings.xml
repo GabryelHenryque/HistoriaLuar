@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">hisLuar</string>
+    <string name="text1">Isto é uma batata...</string>
+    <string name="text2">este é o sr batata...</string>
+    <string name="text3">Esta é a sra batata...</string>
+    <string name="text4">aqui está o batata filho do sr batata e sra batata nascendo...</string>
+    <string name="text5">O batata era feliz...</string>
+    <string name="text6">O batata não gostava de estudar mas...</string>
+    <string name="text7">O batata Conseguiu virar cantor</string>
+    <string name="text8">aqui esta a musica do batata</string>
+
+    <string name="text1b">
+        Lá estava ela, na palestra de Cris.
+        Cris falava sobre a relação entre as pessoas - que pessoas
+        são importantes para a nossa evolução e para o nosso conhecer sobre o mundo- Coisas do tipo.
+
+        Ela se sentia feliz por estar ali, até que certo momento ela sentiu que deveria partir. Com esse
+        sentimento, ela se levantou, foi até o palestrante e o agradeceu antes de sair pela porta.
+
+    </string>
+    <string name="text2b">
+
+        Quando saiu da plaestra, viu que já era noite. Se guiando por seus sentidos, ela andou por becos e ruas
+        até chegar na floresta densa, que se mantia firme em meio a evolução das cidades e a destruição
+        das outras florestas.
+
+    </string>
+    <string name="text3b">
+
+        Ela entrou na floresta e começou a andar sem rumo, pois seus sentidos apenas a guiaram até a entrada
+        da floresta. Ali, ela caminhou, caminhou e caminhou ...
+
+    </string>
+    <string name="text4b">
+
+        Seus passos a levaram até uma cadeira na beira do rio que cortava aquela floresta. Ela parou por
+        um minuto e olhou essa cena até sentir lagrigas escorrerem pelo seu rosto. Ela não questionou suas lagrimas
+        ou seus sentimentos, mas se sentou nessa cadeira e observou o lago por minutos que se tornaram horas.
+
+        Sentiu as lagrimas pararem de escorrer pelo seu rosto, porem a umidade delas deu lugar a chuva que caia intensa
+        naquele local e a molhou por completa. Sentindo que estaria molhada de toda forma, seja por lagrimas
+        ou pela chuva, ela apenas continuou assim, deixando a chuva a lavar.
+
+        Ela começou a cantar sozinha sua música favorita, olhou para o ceu e por fim disse sua ultima frase.
+
+        -Obrigada
+    </string>
+
+</resources>
